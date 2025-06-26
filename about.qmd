@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+My name is **Adit Rohit** and I attend *Evergreen Middle School*
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
