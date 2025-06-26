@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aditrohit.github.io/website-2/source-2.html</loc>
+    <lastmod>2025-06-26T17:23:15.136Z</lastmod>
+  </url>
+  <url>
     <loc>https://aditrohit.github.io/website-2/index.html</loc>
     <lastmod>2025-06-26T17:03:15.552Z</lastmod>
   </url>
   <url>
     <loc>https://aditrohit.github.io/website-2/about.html</loc>
     <lastmod>2025-06-26T17:09:15.390Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aditrohit.github.io/website-2/source-1.html</loc>
+    <lastmod>2025-06-26T17:22:42.531Z</lastmod>
   </url>
 </urlset>
